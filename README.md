@@ -27,7 +27,9 @@ Quant, Big data, Machine Learning, Deep Learning, Python
 <br>
 
 ### ☁️ SNS List ☁️
-![instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/byobyo_run/)  ![tstory](https://img.shields.io/badge/Tstory-E1DCD9?style=flat-square&logo=Tstory&logoColor=white&link=www.https://byobyomanager.com/)
+<a href="https://www.instagram.com/byobyo_run/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://byobyomanager.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory-E1DCD9?style=flat-square&logoColor=white"/></a>
+
 <br>
 
 ---
