@@ -4,7 +4,7 @@
 <div align="center">
 
 # Hello, I'm Bobae 👋
-preparing for Quant fund-manager <br>
+Wannabe Front Quant <br>
 🌱 I’m currently learning:<br>
 Quant, Big data, Machine Learning, Deep Learning, Python
 
