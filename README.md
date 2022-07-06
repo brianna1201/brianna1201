@@ -1,7 +1,6 @@
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=welcome&fontSize=90&desc=Bobae's%20GitHub%20Profile&descAlignY=65)
-
-<div align="center">
 
 # Hello, I'm Bobae 👋
 Wannabe Front Quant <br>
@@ -17,7 +16,9 @@ Quant, Big data, Machine Learning, Deep Learning, Python
 ---
 
 ### ⚒️ Skill Stack ⚒️
-![python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)  ![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC342D?style=flat-square&logo=Ruby&logoColor=white)  
+![python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+<br>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)  ![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC342D?style=flat-square&logo=Ruby&logoColor=white)  
 
 <br>
 
