@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=welcome&fontSize=90&desc=Bobae's%20GitHub%20Profile&descAlignY=65)
 
 # Hello, I'm Bobae 👋
-Wannabe Front Quant <br>
+▶ Working in Quantitative Developer(Quant)
+▶ Content Creator in Economic, Investment, Deep Learning
+▶ Personal Branding <br>
 🌱 I’m currently learning:<br>
 Quant, Big data, Machine Learning, Deep Learning, Python
 
